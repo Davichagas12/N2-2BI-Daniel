@@ -4,7 +4,9 @@
 ## About The Project
 
 Proposed by [Daniel Carvalho](https://github.com/danielscarvalho) in the Programming Language III subject at [Faculdade de Tecnologia Termomecanica](http://www.ftt.com.br/).
+
 The objective of this project is to create a front-end with a JAVA api that has a connection to a database with more than four tables in the database (MySQL).
+
 We decided to integrate the knowledge that, according to the curriculum of the Computer Engineering course at [Faculdade de Tecnologia Termomecanica](http://www.ftt.com.br/), we should have learned in the classes of Software Engineering. So we created a management tool for squad functions, being the task manager of agile methodologies.
 
 
@@ -12,8 +14,8 @@ We decided to integrate the knowledge that, according to the curriculum of the C
 * [JAVA](https://https//www.java.com/)
 * [MySQL](https://mysql.com/)
 * [Maven](https://maven.apache.org/)
-* [Spring]()
-* [Vue.js]()
+* [Spring](https://spring.io/)
+* [Vue.js](https://vuejs.org/)
 
 ## Local development setup
 
